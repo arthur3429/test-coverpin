@@ -106,7 +106,7 @@ const Filters: React.FC<FiltersProps> = ({
           
           {/* Action Buttons */}
           <div className="grid gap-2 grid-cols-2 max-md:-order-1 max-md:w-full">
-            {(hasActiveFilters || hasActiveSorting) && (
+            {(hasActiveFilters || hasActiveSorting) ? 
               <Button
                 variant="ghost"
                 size="sm"
@@ -115,8 +115,8 @@ const Filters: React.FC<FiltersProps> = ({
               >
                 <X className="w-4 h-4 mr-1" />
                 Clear
-              </Button>
-            )}
+              </Button> : <div></div>
+            }
             
             <Button
               variant="outline"

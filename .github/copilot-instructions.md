@@ -1,7 +1,7 @@
-# Copilot Instructions for Sales Scout Console
+# Copilot Instructions for Mini Seller Console
 
 ## Project Overview
-Sales Scout Console is a React + TypeScript lead management dashboard built with Vite, utilizing advanced UI patterns including virtualization, drag-and-drop kanban boards, and persistent local state management.
+Mini Seller Console is a React + TypeScript lead management dashboard built with Vite, utilizing advanced UI patterns including virtualization, drag-and-drop kanban boards, and persistent local state management.
 
 ## Architecture & Key Patterns
 
