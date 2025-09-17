@@ -1,0 +1,902 @@
+[
+  {
+    "id": "lead-001",
+    "name": "Sarah Johnson",
+    "company": "TechCorp Solutions",
+    "email": "sarah.johnson@techcorp.com",
+    "source": "website",
+    "score": 95,
+    "status": "new"
+  },
+  {
+    "id": "lead-002",
+    "name": "Michael Chen",
+    "company": "Digital Innovations Inc",
+    "email": "m.chen@digitalinnovations.com",
+    "source": "referral",
+    "score": 88,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-003",
+    "name": "Emma Rodriguez",
+    "company": "CloudVision Systems",
+    "email": "emma.r@cloudvision.net",
+    "source": "social_media",
+    "score": 92,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-004",
+    "name": "David Kim",
+    "company": "NextGen Analytics",
+    "email": "david@nextgenanalytics.io",
+    "source": "email_campaign",
+    "score": 76,
+    "status": "new"
+  },
+  {
+    "id": "lead-005",
+    "name": "Lisa Thompson",
+    "company": "Quantum Dynamics",
+    "email": "lisa.thompson@quantumdynamics.com",
+    "source": "webinar",
+    "score": 84,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-006",
+    "name": "Robert Martinez",
+    "company": "Synergy Solutions",
+    "email": "r.martinez@synergysol.com",
+    "source": "conference",
+    "score": 91,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-007",
+    "name": "Jennifer Wu",
+    "company": "InnovateTech Ltd",
+    "email": "jennifer.wu@innovatetech.co.uk",
+    "source": "website",
+    "score": 79,
+    "status": "new"
+  },
+  {
+    "id": "lead-008",
+    "name": "Alex Brown",
+    "company": "FutureSoft Corporation",
+    "email": "alex.brown@futuresoft.com",
+    "source": "referral",
+    "score": 93,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-009",
+    "name": "Maria Garcia",
+    "company": "DataDrive Systems",
+    "email": "maria.garcia@datadrive.es",
+    "source": "social_media",
+    "score": 67,
+    "status": "new"
+  },
+  {
+    "id": "lead-010",
+    "name": "James Wilson",
+    "company": "CloudFirst Technologies",
+    "email": "james.wilson@cloudfirst.tech",
+    "source": "email_campaign",
+    "score": 85,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-011",
+    "name": "Amanda Lee",
+    "company": "Digital Transformation Co",
+    "email": "amanda.lee@digitaltrans.com",
+    "source": "webinar",
+    "score": 89,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-012",
+    "name": "Kevin O'Connor",
+    "company": "SmartTech Solutions",
+    "email": "kevin@smarttechsol.ie",
+    "source": "conference",
+    "score": 72,
+    "status": "new"
+  },
+  {
+    "id": "lead-013",
+    "name": "Sophie Anderson",
+    "company": "AI Ventures",
+    "email": "sophie.anderson@aiventures.com",
+    "source": "website",
+    "score": 96,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-014",
+    "name": "Carlos Mendoza",
+    "company": "RoboticsFlow Inc",
+    "email": "carlos.mendoza@roboticsflow.com",
+    "source": "referral",
+    "score": 83,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-015",
+    "name": "Rachel Taylor",
+    "company": "EcoTech Innovations",
+    "email": "rachel.taylor@ecotechinnov.com",
+    "source": "social_media",
+    "score": 78,
+    "status": "new"
+  },
+  {
+    "id": "lead-016",
+    "name": "Daniel Singh",
+    "company": "ByteStream Systems",
+    "email": "daniel.singh@bytestream.in",
+    "source": "email_campaign",
+    "score": 90,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-017",
+    "name": "Nicole Evans",
+    "company": "CyberSafe Solutions",
+    "email": "nicole.evans@cybersafe.com",
+    "source": "webinar",
+    "score": 87,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-018",
+    "name": "Thomas Miller",
+    "company": "BlockChain Dynamics",
+    "email": "thomas.miller@blockchaindyn.com",
+    "source": "conference",
+    "score": 74,
+    "status": "new"
+  },
+  {
+    "id": "lead-019",
+    "name": "Olivia Clark",
+    "company": "QuantumLeap Technologies",
+    "email": "olivia.clark@quantumleaptech.com",
+    "source": "website",
+    "score": 94,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-020",
+    "name": "Ryan Murphy",
+    "company": "CloudScale Systems",
+    "email": "ryan.murphy@cloudscale.com",
+    "source": "referral",
+    "score": 81,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-021",
+    "name": "Hannah Davis",
+    "company": "TechFlow Innovations",
+    "email": "hannah.davis@techflow.com",
+    "source": "social_media",
+    "score": 77,
+    "status": "new"
+  },
+  {
+    "id": "lead-022",
+    "name": "Christopher Lee",
+    "company": "DataMesh Corporation",
+    "email": "christopher.lee@datamesh.com",
+    "source": "email_campaign",
+    "score": 86,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-023",
+    "name": "Stephanie White",
+    "company": "VirtualReality Plus",
+    "email": "stephanie.white@vrplus.com",
+    "source": "webinar",
+    "score": 75,
+    "status": "new"
+  },
+  {
+    "id": "lead-024",
+    "name": "Andrew Johnson",
+    "company": "NeuralNet Systems",
+    "email": "andrew.johnson@neuralnet.com",
+    "source": "conference",
+    "score": 92,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-025",
+    "name": "Jessica Rodriguez",
+    "company": "MachineLearning Co",
+    "email": "jessica.rodriguez@mlco.com",
+    "source": "website",
+    "score": 88,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-026",
+    "name": "Brandon Martinez",
+    "company": "IoT Solutions Ltd",
+    "email": "brandon.martinez@iotsolutions.co.uk",
+    "source": "referral",
+    "score": 70,
+    "status": "new"
+  },
+  {
+    "id": "lead-027",
+    "name": "Ashley Thompson",
+    "company": "EdgeComputing Inc",
+    "email": "ashley.thompson@edgecomputing.com",
+    "source": "social_media",
+    "score": 82,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-028",
+    "name": "Joshua Brown",
+    "company": "DevOps Dynamics",
+    "email": "joshua.brown@devopsdyn.com",
+    "source": "email_campaign",
+    "score": 89,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-029",
+    "name": "Megan Wilson",
+    "company": "MicroServices Corp",
+    "email": "megan.wilson@microservices.com",
+    "source": "webinar",
+    "score": 76,
+    "status": "new"
+  },
+  {
+    "id": "lead-030",
+    "name": "Tyler Garcia",
+    "company": "KubernetesFlow Systems",
+    "email": "tyler.garcia@k8sflow.com",
+    "source": "conference",
+    "score": 93,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-031",
+    "name": "Lauren Anderson",
+    "company": "ServerlessStack Inc",
+    "email": "lauren.anderson@serverlessstack.com",
+    "source": "website",
+    "score": 85,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-032",
+    "name": "Nathan Taylor",
+    "company": "GraphQL Technologies",
+    "email": "nathan.taylor@graphqltech.com",
+    "source": "referral",
+    "score": 73,
+    "status": "new"
+  },
+  {
+    "id": "lead-033",
+    "name": "Samantha Miller",
+    "company": "ReactFlow Solutions",
+    "email": "samantha.miller@reactflow.com",
+    "source": "social_media",
+    "score": 80,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-034",
+    "name": "Ethan Moore",
+    "company": "NodeJS Dynamics",
+    "email": "ethan.moore@nodejsdyn.com",
+    "source": "email_campaign",
+    "score": 87,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-035",
+    "name": "Victoria Jackson",
+    "company": "PythonPower Corp",
+    "email": "victoria.jackson@pythonpower.com",
+    "source": "webinar",
+    "score": 91,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-036",
+    "name": "Jacob White",
+    "company": "JavaStream Systems",
+    "email": "jacob.white@javastream.com",
+    "source": "conference",
+    "score": 68,
+    "status": "new"
+  },
+  {
+    "id": "lead-037",
+    "name": "Isabella Harris",
+    "company": "GoLang Solutions",
+    "email": "isabella.harris@golangsol.com",
+    "source": "website",
+    "score": 84,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-038",
+    "name": "William Clark",
+    "company": "RustForge Technologies",
+    "email": "william.clark@rustforge.com",
+    "source": "referral",
+    "score": 79,
+    "status": "new"
+  },
+  {
+    "id": "lead-039",
+    "name": "Grace Lewis",
+    "company": "TypeScript Innovations",
+    "email": "grace.lewis@tsinnov.com",
+    "source": "social_media",
+    "score": 86,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-040",
+    "name": "Alexander Robinson",
+    "company": "SwiftCode Corp",
+    "email": "alexander.robinson@swiftcode.com",
+    "source": "email_campaign",
+    "score": 77,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-041",
+    "name": "Chloe Walker",
+    "company": "KotlinKraft Systems",
+    "email": "chloe.walker@kotlinkraft.com",
+    "source": "webinar",
+    "score": 90,
+    "status": "new"
+  },
+  {
+    "id": "lead-042",
+    "name": "Logan Hall",
+    "company": "ScalaStream Technologies",
+    "email": "logan.hall@scalastream.com",
+    "source": "conference",
+    "score": 72,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-043",
+    "name": "Zoe Allen",
+    "company": "ClojureCloud Solutions",
+    "email": "zoe.allen@clojurecloud.com",
+    "source": "website",
+    "score": 83,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-044",
+    "name": "Ian Young",
+    "company": "ElixirEdge Inc",
+    "email": "ian.young@elixiredge.com",
+    "source": "referral",
+    "score": 88,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-045",
+    "name": "Maya King",
+    "company": "HaskellHorizon Corp",
+    "email": "maya.king@haskellhorizon.com",
+    "source": "social_media",
+    "score": 74,
+    "status": "new"
+  },
+  {
+    "id": "lead-046",
+    "name": "Connor Wright",
+    "company": "ErlangEvolution Systems",
+    "email": "connor.wright@erlangevo.com",
+    "source": "email_campaign",
+    "score": 81,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-047",
+    "name": "Aria Lopez",
+    "company": "FSharpFlow Technologies",
+    "email": "aria.lopez@fsharpflow.com",
+    "source": "webinar",
+    "score": 85,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-048",
+    "name": "Hunter Hill",
+    "company": "OCamlOptimize Inc",
+    "email": "hunter.hill@ocamlopt.com",
+    "source": "conference",
+    "score": 76,
+    "status": "new"
+  },
+  {
+    "id": "lead-049",
+    "name": "Layla Scott",
+    "company": "DartDynamics Solutions",
+    "email": "layla.scott@dartdynamics.com",
+    "source": "website",
+    "score": 89,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-050",
+    "name": "Caleb Green",
+    "company": "PHPPipeline Corp",
+    "email": "caleb.green@phppipeline.com",
+    "source": "referral",
+    "score": 71,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-051",
+    "name": "Natalie Adams",
+    "company": "RubyRails Systems",
+    "email": "natalie.adams@rubyrails.com",
+    "source": "social_media",
+    "score": 87,
+    "status": "new"
+  },
+  {
+    "id": "lead-052",
+    "name": "Blake Baker",
+    "company": "PerlPower Technologies",
+    "email": "blake.baker@perlpower.com",
+    "source": "email_campaign",
+    "score": 78,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-053",
+    "name": "Skylar Gonzalez",
+    "company": "CSharpCloud Inc",
+    "email": "skylar.gonzalez@csharpcloud.com",
+    "source": "webinar",
+    "score": 92,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-054",
+    "name": "Jaxon Nelson",
+    "company": "VBNetVision Solutions",
+    "email": "jaxon.nelson@vbnetvision.com",
+    "source": "conference",
+    "score": 69,
+    "status": "new"
+  },
+  {
+    "id": "lead-055",
+    "name": "Luna Carter",
+    "company": "CppCore Systems",
+    "email": "luna.carter@cppcore.com",
+    "source": "website",
+    "score": 85,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-056",
+    "name": "Grayson Mitchell",
+    "company": "AssemblyAccel Technologies",
+    "email": "grayson.mitchell@asmaccel.com",
+    "source": "referral",
+    "score": 80,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-057",
+    "name": "Nova Perez",
+    "company": "WebAssembly Works",
+    "email": "nova.perez@wasmworks.com",
+    "source": "social_media",
+    "score": 84,
+    "status": "new"
+  },
+  {
+    "id": "lead-058",
+    "name": "Easton Roberts",
+    "company": "SQLStream Corp",
+    "email": "easton.roberts@sqlstream.com",
+    "source": "email_campaign",
+    "score": 73,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-059",
+    "name": "Violet Turner",
+    "company": "NoSQLNova Systems",
+    "email": "violet.turner@nosqlnova.com",
+    "source": "webinar",
+    "score": 88,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-060",
+    "name": "Maverick Phillips",
+    "company": "MongoMagic Inc",
+    "email": "maverick.phillips@mongomagic.com",
+    "source": "conference",
+    "score": 76,
+    "status": "new"
+  },
+  {
+    "id": "lead-061",
+    "name": "Hazel Campbell",
+    "company": "RedisRapid Technologies",
+    "email": "hazel.campbell@redisrapid.com",
+    "source": "website",
+    "score": 91,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-062",
+    "name": "River Parker",
+    "company": "ElasticEdge Solutions",
+    "email": "river.parker@elasticedge.com",
+    "source": "referral",
+    "score": 79,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-063",
+    "name": "Stella Evans",
+    "company": "GraphDatabase Corp",
+    "email": "stella.evans@graphdb.com",
+    "source": "social_media",
+    "score": 86,
+    "status": "new"
+  },
+  {
+    "id": "lead-064",
+    "name": "Knox Edwards",
+    "company": "TimeSeriesTech Systems",
+    "email": "knox.edwards@tstech.com",
+    "source": "email_campaign",
+    "score": 74,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-065",
+    "name": "Aurora Collins",
+    "company": "BlockchainBase Inc",
+    "email": "aurora.collins@blockchainbase.com",
+    "source": "webinar",
+    "score": 89,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-066",
+    "name": "Phoenix Stewart",
+    "company": "CryptoCloud Technologies",
+    "email": "phoenix.stewart@cryptocc.com",
+    "source": "conference",
+    "score": 82,
+    "status": "new"
+  },
+  {
+    "id": "lead-067",
+    "name": "Sage Sanchez",
+    "company": "DeFiDynamics Solutions",
+    "email": "sage.sanchez@defidyn.com",
+    "source": "website",
+    "score": 87,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-068",
+    "name": "Atlas Morris",
+    "company": "NFTNexus Corp",
+    "email": "atlas.morris@nftnexus.com",
+    "source": "referral",
+    "score": 75,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-069",
+    "name": "Willow Rogers",
+    "company": "MetaverseMagic Systems",
+    "email": "willow.rogers@metaversemagic.com",
+    "source": "social_media",
+    "score": 93,
+    "status": "new"
+  },
+  {
+    "id": "lead-070",
+    "name": "Orion Reed",
+    "company": "AR/VRVision Inc",
+    "email": "orion.reed@arvrvision.com",
+    "source": "email_campaign",
+    "score": 77,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-071",
+    "name": "Indie Cook",
+    "company": "MixedReality Plus",
+    "email": "indie.cook@mrplus.com",
+    "source": "webinar",
+    "score": 84,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-072",
+    "name": "Dash Morgan",
+    "company": "HoloTech Solutions",
+    "email": "dash.morgan@holotech.com",
+    "source": "conference",
+    "score": 71,
+    "status": "new"
+  },
+  {
+    "id": "lead-073",
+    "name": "Ember Bailey",
+    "company": "DigitalTwin Corp",
+    "email": "ember.bailey@digitaltwin.com",
+    "source": "website",
+    "score": 88,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-074",
+    "name": "Sage Rivera",
+    "company": "QuantumSim Systems",
+    "email": "sage.rivera@quantumsim.com",
+    "source": "referral",
+    "score": 81,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-075",
+    "name": "Wren Cooper",
+    "company": "NeuralSim Technologies",
+    "email": "wren.cooper@neuralsim.com",
+    "source": "social_media",
+    "score": 85,
+    "status": "new"
+  },
+  {
+    "id": "lead-076",
+    "name": "Cruz Richardson",
+    "company": "BioSim Inc",
+    "email": "cruz.richardson@biosim.com",
+    "source": "email_campaign",
+    "score": 78,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-077",
+    "name": "Lyra Cox",
+    "company": "ClimateModel Solutions",
+    "email": "lyra.cox@climatemodel.com",
+    "source": "webinar",
+    "score": 90,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-078",
+    "name": "Kai Ward",
+    "company": "FluidDynamics Corp",
+    "email": "kai.ward@fluiddyn.com",
+    "source": "conference",
+    "score": 73,
+    "status": "new"
+  },
+  {
+    "id": "lead-079",
+    "name": "Iris Torres",
+    "company": "AeroSim Systems",
+    "email": "iris.torres@aerosim.com",
+    "source": "website",
+    "score": 86,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-080",
+    "name": "Zion Peterson",
+    "company": "SpaceTech Solutions",
+    "email": "zion.peterson@spacetech.com",
+    "source": "referral",
+    "score": 92,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-081",
+    "name": "Rain Gray",
+    "company": "SatelliteSync Inc",
+    "email": "rain.gray@satellitesync.com",
+    "source": "social_media",
+    "score": 74,
+    "status": "new"
+  },
+  {
+    "id": "lead-082",
+    "name": "Vale Ramirez",
+    "company": "RocketRise Technologies",
+    "email": "vale.ramirez@rocketrise.com",
+    "source": "email_campaign",
+    "score": 89,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-083",
+    "name": "Dune James",
+    "company": "OrbitOps Corp",
+    "email": "dune.james@orbitops.com",
+    "source": "webinar",
+    "score": 76,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-084",
+    "name": "Echo Watson",
+    "company": "MarsMatrix Systems",
+    "email": "echo.watson@marsmatrix.com",
+    "source": "conference",
+    "score": 83,
+    "status": "new"
+  },
+  {
+    "id": "lead-085",
+    "name": "Scout Brooks",
+    "company": "LunarLogic Solutions",
+    "email": "scout.brooks@lunarlogic.com",
+    "source": "website",
+    "score": 87,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-086",
+    "name": "Ocean Kelly",
+    "company": "AsteroidAnalytics Inc",
+    "email": "ocean.kelly@asteroidanalytics.com",
+    "source": "referral",
+    "score": 70,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-087",
+    "name": "Storm Sanders",
+    "company": "CometCore Technologies",
+    "email": "storm.sanders@cometcore.com",
+    "source": "social_media",
+    "score": 84,
+    "status": "new"
+  },
+  {
+    "id": "lead-088",
+    "name": "Blaze Price",
+    "company": "NebulaNET Corp",
+    "email": "blaze.price@nebulanet.com",
+    "source": "email_campaign",
+    "score": 91,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-089",
+    "name": "Frost Bennett",
+    "company": "GalaxyGrid Systems",
+    "email": "frost.bennett@galaxygrid.com",
+    "source": "webinar",
+    "score": 78,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-090",
+    "name": "Raven Wood",
+    "company": "UniverseUni Solutions",
+    "email": "raven.wood@universeuni.com",
+    "source": "conference",
+    "score": 85,
+    "status": "new"
+  },
+  {
+    "id": "lead-091",
+    "name": "Ace Barnes",
+    "company": "CosmicCloud Inc",
+    "email": "ace.barnes@cosmiccloud.com",
+    "source": "website",
+    "score": 72,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-092",
+    "name": "Sage Ross",
+    "company": "StarStream Technologies",
+    "email": "sage.ross@starstream.com",
+    "source": "referral",
+    "score": 88,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-093",
+    "name": "River Henderson",
+    "company": "PlanetPulse Corp",
+    "email": "river.henderson@planetpulse.com",
+    "source": "social_media",
+    "score": 79,
+    "status": "new"
+  },
+  {
+    "id": "lead-094",
+    "name": "Atlas Coleman",
+    "company": "SolarSync Systems",
+    "email": "atlas.coleman@solarsync.com",
+    "source": "email_campaign",
+    "score": 86,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-095",
+    "name": "Nova Jenkins",
+    "company": "BlackHole Solutions",
+    "email": "nova.jenkins@blackhole.com",
+    "source": "webinar",
+    "score": 94,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-096",
+    "name": "Zara Perry",
+    "company": "WormholeWorks Inc",
+    "email": "zara.perry@wormholeworks.com",
+    "source": "conference",
+    "score": 77,
+    "status": "new"
+  },
+  {
+    "id": "lead-097",
+    "name": "Koda Powell",
+    "company": "DimensionDrift Technologies",
+    "email": "koda.powell@dimensiondrift.com",
+    "source": "website",
+    "score": 89,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-098",
+    "name": "Luna Long",
+    "company": "TimeTravel Corp",
+    "email": "luna.long@timetravel.com",
+    "source": "referral",
+    "score": 81,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-099",
+    "name": "Dash Hughes",
+    "company": "ParallelPaths Systems",
+    "email": "dash.hughes@parallelpaths.com",
+    "source": "social_media",
+    "score": 83,
+    "status": "new"
+  },
+  {
+    "id": "lead-100",
+    "name": "Sage Flores",
+    "company": "InfiniteInnovations Inc",
+    "email": "sage.flores@infiniteinnovations.com",
+    "source": "email_campaign",
+    "score": 95,
+    "status": "qualified"
+  }
+]
